@@ -271,14 +271,3 @@ public List<Integer> getNewsFeed(int userId) {
 最后，Github 上有一个优秀的开源项目叫 [system-design-primer](https://github.com/donnemartin/system-design-primer)，专门收集了很多大型系统设计的案例和解析，而且有中文版本，上面这个图也出自该项目。对系统设计感兴趣的读者可以点击链接查看。
 
 PS：本文前两张图片和 GIF 是我第一次尝试用平板的绘图软件制作的，花了很多时间，尤其是 GIF 图，需要一帧一帧制作。如果本文内容对你有帮助，点个赞分个享，鼓励一下我呗！
-
-坚持原创高质量文章，致力于把算法问题讲清楚，欢迎关注我的公众号 labuladong 获取最新文章：
-
-![labuladong](../pictures/labuladong.jpg)
-
-
-[上一篇：特殊数据结构：单调队列](../数据结构系列/单调队列.md)
-
-[下一篇：递归反转链表的一部分](../数据结构系列/递归反转链表的一部分.md)
-
-[目录](../README.md#目录)
