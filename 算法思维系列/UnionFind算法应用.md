@@ -215,16 +215,3 @@ boolean equationsPossible(String[] equations) {
 另外，将二维数组映射到一维数组，利用方向数组 `d` 来简化代码量，都是在写算法时常用的一些小技巧，如果没见过可以注意一下。
 
 很多更复杂的 DFS 算法问题，都可以利用 Union-Find 算法更漂亮的解决。LeetCode 上 Union-Find 相关的问题也就二十多道，有兴趣的读者可以去做一做。
-
-
-
-坚持原创高质量文章，致力于把算法问题讲清楚，欢迎关注我的公众号 labuladong 获取最新文章：
-
-![labuladong](../pictures/labuladong.jpg)
-
-
-[上一篇：Union-Find算法详解](../算法思维系列/UnionFind算法详解.md)
-
-[下一篇：一行代码就能解决的算法题](../高频面试系列/一行代码解决的智力题.md)
-
-[目录](../README.md#目录)
